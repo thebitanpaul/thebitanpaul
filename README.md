@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Bitan Paul</h1>
-<h3 align="center">An AI Specialist From India</h3>
+<h3 align="center">An AI Specialist</h3>
 
 
 
