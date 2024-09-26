@@ -11,7 +11,7 @@
 
 <img align="right" alt="Bitan's photo" width="400" height="400"
     src="https://github.com/user-attachments/assets/cb2ab442-4d4f-4d1d-9677-e1db92095d72"/>
-
+<br><br>
 <ul>
     <li>🔭 I’m currently working on <strong>Gen AI</strong> project <a href="https://dataanalyzerai.streamlit.app/">Data
             Analyzer AI</a></li>
@@ -28,7 +28,6 @@
     <li>⚡ Fun fact: <strong>I think I can revolutionize the GenAI era!</strong></li>
 </ul>
 
-<br><br>
 <br><br>
 
 ## My GitHub Trophies:
