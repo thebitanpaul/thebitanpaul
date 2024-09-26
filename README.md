@@ -5,12 +5,13 @@
 <h1 align="center">Hey there, I'm Bitan Paul</h1>
 <h3 align="center">An AI Specialist From India</h3>
 
-<br><br> 
+
 
 # About Me:
 
 <img align="right" alt="Bitan's photo" width="400" height="400"
     src="https://github.com/user-attachments/assets/cb2ab442-4d4f-4d1d-9677-e1db92095d72"/>
+<br><br>
 <br><br>
 <ul>
     <li>🔭 I’m currently working on <strong>Gen AI</strong> project <a href="https://dataanalyzerai.streamlit.app/">Data
