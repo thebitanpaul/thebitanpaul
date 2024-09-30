@@ -33,7 +33,7 @@
 
 ## My GitHub Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebitanpaul" alt="thebitanpaul's GitHub Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebitanpaul&theme=juicyfresh&no-frame=true" alt="thebitanpaul's GitHub Trophies" /></a> </p>
 
 
 ## Languages and Tools:
