@@ -1,65 +1,75 @@
-<p align="center">
-    <img alt="Greetings GIF" width="4000" height="500"     src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-</p>
+# Bitan Paul
 
-<h1 align="center">Hey there, I'm Bitan Paul</h1>
-<h3 align="center">An AI Specialist</h3>
+### AI / ML Engineer — GenAI · LLMs · Agentic Systems
 
+AI/ML Engineer with 2+ years of experience building production-grade Generative AI, LLM, and agentic systems. I work across the full AI lifecycle — multi-agent orchestration, computer vision, backend/API development, and cloud-native data engineering on **AWS** and **Azure**.
 
+📍 Bengaluru, India  
+📄 [**View Resume (PDF)**](https://github.com/user-attachments/files/28474617/Resume_BitanPaul.pdf)  ·  💼 [LinkedIn](https://linkedin.com/in/thebitanpaul)  ·  ✉️ [thebitanpaul@gmail.com](mailto:thebitanpaul@gmail.com)
 
-# About Me:
+---
 
-<img align="right" alt="Bitan's photo" width="400" height="400"
-    src="https://github.com/user-attachments/assets/cb2ab442-4d4f-4d1d-9677-e1db92095d72"/>
-<br><br>
-<br><br>
-<ul>
-    <li>🔭 I’m currently working on <strong>Gen AI</strong> project <a href="https://dataanalyzerai.streamlit.app/">Data
-            Analyzer AI</a></li>
-    <li>🌱 I’m currently learning <strong>Flutter, GenAI</strong></li>
-    <li>📱 Find my android application on Play Store <a
-            href="https://play.google.com/store/apps/details?id=com.thebitanpaul.cubuddy&pli=1">Campus Buddy</a></li>
-    <li>👁 My work on computer vision <a href="https://github.com/thebitanpaul/Face-Says-Bmi">Face Says BMI</a></li>
-    <li>💻 All of my projects are available at <a href="https://github.com/thebitanpaul">GitHub</a></li>
-    <li>📝 I regularly post on <a href="https://linkedin.com/in/thebitanpaul">LinkedIn</a></li>
-    <li>💬 Ask me anything about <strong>Artificial Intelligence</strong></li>
-    <li>📫 How to reach me: <a href="mailto:thebitanpaul@gmail.com">thebitanpaul@gmail.com</a></li>
-    <li>📄 Here is my resume <a
-            href="https://drive.google.com/drive/folders/1-hUcqcLcDq76lfxuBAEr54j08CVwuD8k?usp=sharing">Resume</a></li>
-    <li>⚡ Fun fact: <strong>I think I can revolutionize the GenAI era!</strong></li>
-</ul>
+## 🛠️ Tech Stack
 
-<br><br>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## My GitHub Trophies:
+**GenAI & ML**  
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-1F4E79?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebitanpaul&theme=juicyfresh&no-frame=true" alt="thebitanpaul's GitHub Trophies" /></a> </p>
+**Cloud & Data Engineering**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
+**Backend & Frontend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## Languages and Tools:
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-## My GitHub Stats:
+## 💼 Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebitanpaul&show_icons=true&locale=en&layout=compact&theme=transparent" alt="thebitanpaul" /></p>
+**Navikenz** — *Data Engineering & AI Specialist* · Jan 2024 – Present  
+Building AI contract-intelligence platforms, GenAI business-intelligence tooling, and Azure/Databricks data pipelines for enterprise clients.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thebitanpaul&show_icons=true&locale=en&theme=transparent" alt="thebitanpaul" /></p>
+**Outlier AI** — *AI Trainer (Freelance)* · Sep 2024 – Present  
+Training and refining LLMs on reasoning, coding, and NLP tasks; prompt engineering and model-behavior optimization.
 
-## My GitHub Streaks:
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thebitanpaul&theme=transparent" alt="thebitanpaul" /></p>
+## 🚀 Featured Projects
 
+| Project | Description | Links |
+|---------|-------------|-------|
+| **ArchAItect** | Agentic AI assistant that designs, evaluates & iterates software architectures using autonomous agents. | [Live Demo](https://archaitect-ten.vercel.app/) |
+| **Campus Buddy** | Android app solving real campus problems — 1,000+ downloads, 4.8★. | [Play Store](https://play.google.com/store/apps/details?id=com.thebitanpaul.cubuddy) |
+| **Ball Sort Puzzle** | Mobile puzzle game published on Google Play Store. | [Play Store](https://play.google.com/store/apps/details?id=com.thebitanpaul.ballsortpuzzle) |
+| **Face Says BMI** | CNN that predicts BMI, age & gender from a single facial image. | [GitHub](https://github.com/thebitanpaul/Face-Says-Bmi) |
 
-## Connect with me:
+📂 Explore all my work at [github.com/thebitanpaul](https://github.com/thebitanpaul)
 
-<p align="left">
-<a href="https://twitter.com/thebitanpaul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thebitanpaul_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thebitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thebitanpaul" height="30" width="40" /></a>
-<a href="https://kaggle.com/bitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bitanpaul" height="30" width="40" /></a>
-<a href="https://fb.com/thebitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thebitanpaul" height="30" width="40" /></a>
-<a href="https://instagram.com/thebitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thebitanpaul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theunwrittenquote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theunwrittenquote" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thebitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thebitanpaul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thebitanpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thebitanpaul" height="30" width="40" /></a>
-</p>
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebitanpaul)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/bitanpaul)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/thebitanpaul)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/thebitanpaul_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thebitanpaul@gmail.com)
