@@ -392,14 +392,154 @@ A published mobile puzzle game demonstrating clean gameplay mechanics and polish
 </table>
 
 ---
+## Creative Portfolio
 
-## Beyond Code
+Engineering has always been one side of my creative journey.
 
-My work extends beyond writing software. I'm building an ecosystem where artificial intelligence, automation, engineering, design, and creativity converge under a single vision.
+Alongside building software, I independently write, compose, produce, and publish original music. These projects explore storytelling through sound, visuals, and emotion—the same principles of creativity and craftsmanship that influence the products I build.
 
-That vision is **phiUture**—a growing platform encompassing AI products, developer tools, web applications, mobile experiences, automation workflows, educational initiatives, and creative technologies.
+If you'd like to explore more of my music and creative work, visit the **Artist** section under **Connect** below, where you'll find links to my Spotify, Apple Music, YouTube Music, Amazon Music, JioSaavn, YouTube channel, and other streaming platforms.
 
-Every repository, experiment, and product contributes to that long-term mission.
+---
+
+### Featured Music Releases
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<a href="https://open.spotify.com/track/44nfvCCJAerycDbsgyOGvv">
+<img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
+</a>
+
+### Tera Mera Afsaana
+
+Original Hindi romantic single
+
+<a href="https://open.spotify.com/track/44nfvCCJAerycDbsgyOGvv"><strong>Listen on Spotify →</strong></a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://open.spotify.com/track/1jHmdMLFDvp2jKP0jRvYkE">
+<img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
+</a>
+
+### Meri Hain Tuu
+
+Original Hindi dance single
+
+<a href="https://open.spotify.com/track/1jHmdMLFDvp2jKP0jRvYkE"><strong>Listen on Spotify →</strong></a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://open.spotify.com/track/6fu2H9muyqJplpKHalqsn2">
+<img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
+</a>
+
+### Barfili Wadiyan
+
+Hindi lyrical romantic release
+
+<a href="https://open.spotify.com/track/6fu2H9muyqJplpKHalqsn2"><strong>Listen on Spotify →</strong></a>
+
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://open.spotify.com/track/4lh6TFDISC2xbGPrO1Sxa8">
+<img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
+</a>
+
+### Dure Kono Shohore
+
+Original Bengali single
+
+<a href="https://open.spotify.com/track/4lh6TFDISC2xbGPrO1Sxa8"><strong>Listen on Spotify →</strong></a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### Featured Videos
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/NdHy-XpAmPM" target="_blank">
+<img src="https://img.youtube.com/vi/NdHy-XpAmPM/hqdefault.jpg" width="250" alt="Tera Mera Afsaana"/>
+</a>
+
+**Tera Mera Afsaana**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/c0-mHsz5qHk" target="_blank">
+<img src="https://img.youtube.com/vi/c0-mHsz5qHk/hqdefault.jpg" width="250" alt="Meri Hain Tuu"/>
+</a>
+
+**Meri Hain Tuu**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/axVnvYDxZTI" target="_blank">
+<img src="https://img.youtube.com/vi/axVnvYDxZTI/hqdefault.jpg" width="250" alt="Barfili Wadiyan"/>
+</a>
+
+**Barfili Wadiyan**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/kG0ookPTc4k" target="_blank">
+<img src="https://img.youtube.com/vi/kG0ookPTc4k/hqdefault.jpg" width="250" alt="Dure Kono Shohore"/>
+</a>
+
+**Dure Kono Shohore**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/HlAhtfn9qlI" target="_blank">
+<img src="https://img.youtube.com/vi/HlAhtfn9qlI/hqdefault.jpg" width="250" alt="Ardhangini"/>
+</a>
+
+**Ardhangini · অর্ধাঙ্গিনী**
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://youtu.be/VGyZe2Rjz-s" target="_blank">
+<img src="https://img.youtube.com/vi/VGyZe2Rjz-s/hqdefault.jpg" width="250" alt="Dure Kono Shohore (Sad Version)"/>
+</a>
+
+**Dure Kono Shohore (Sad Version)**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
