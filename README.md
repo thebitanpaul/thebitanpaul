@@ -409,35 +409,29 @@ If you'd like to explore more of my music and creative work, visit the **Artist*
 
 <td align="center" width="25%">
 
-<a href="https://open.spotify.com/track/44nfvCCJAerycDbsgyOGvv">
+<a href="https://open.spotify.com/track/5xeIB6PGcEkBGI4TvCDTFK?si=570e0736e63d402c">
 <img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
 </a>
 
 ### Tera Mera Afsaana
 
 Original Hindi romantic single
-
-<a href="https://open.spotify.com/track/44nfvCCJAerycDbsgyOGvv"><strong>Listen on Spotify →</strong></a>
-
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://open.spotify.com/track/1jHmdMLFDvp2jKP0jRvYkE">
+<a href="https://open.spotify.com/track/397gRRPyGqQlu6cW3Hnh1j?si=81083b7eda12499a">
 <img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
 </a>
 
 ### Meri Hain Tuu
 
 Original Hindi dance single
-
-<a href="https://open.spotify.com/track/1jHmdMLFDvp2jKP0jRvYkE"><strong>Listen on Spotify →</strong></a>
-
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://open.spotify.com/track/6fu2H9muyqJplpKHalqsn2">
+<a href="https://open.spotify.com/track/7eIEMAVm5yafuDjJWwWrIH?si=fabbf2e81a814a3b">
 <img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
 </a>
 
@@ -445,22 +439,17 @@ Original Hindi dance single
 
 Hindi lyrical romantic release
 
-<a href="https://open.spotify.com/track/6fu2H9muyqJplpKHalqsn2"><strong>Listen on Spotify →</strong></a>
-
 </td>
 
 <td align="center" width="25%">
 
-<a href="https://open.spotify.com/track/4lh6TFDISC2xbGPrO1Sxa8">
+<a href="https://open.spotify.com/album/4lh6TFDISC2xbGPrO1Sxa8?si=OK4_D-KlTRyCnFZfPavFrA">
 <img src="https://img.icons8.com/fluency/96/spotify.png" width="72"/>
 </a>
 
 ### Dure Kono Shohore
 
 Original Bengali single
-
-<a href="https://open.spotify.com/track/4lh6TFDISC2xbGPrO1Sxa8"><strong>Listen on Spotify →</strong></a>
-
 </td>
 
 </tr>
