@@ -1,6 +1,6 @@
 # Bitan Paul
 
-### AI / ML Engineer — GenAI · LLMs · Agentic Systems
+### AI & Data Engineer — GenAI · LLMs · Agentic Systems
 
 AI/ML Engineer with 2+ years of experience building production-grade Generative AI, LLM, and agentic systems. I work across the full AI lifecycle — multi-agent orchestration, computer vision, backend/API development, and cloud-native data engineering on **AWS** and **Azure**.
 
