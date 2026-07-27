@@ -77,7 +77,6 @@ Together, they define the vision behind phiUture.
 ## Current Focus
 
 - Building the phiUture ecosystem
-- Developing VERA, an AI-powered assistant platform
 - Designing production-ready AI agents
 - Creating intelligent automation workflows
 - Building scalable AI products for real-world use
