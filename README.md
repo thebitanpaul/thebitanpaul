@@ -392,7 +392,7 @@ A published mobile puzzle game demonstrating clean gameplay mechanics and polish
 </table>
 
 ---
-## Creative Portfolio
+## Beyond Engineering
 
 Engineering has always been one side of my creative journey.
 
