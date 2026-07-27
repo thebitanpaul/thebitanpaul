@@ -1,90 +1,428 @@
+<div align="center">
+  
 # Bitan Paul
 
-### AI & Data Engineer — GenAI · LLMs · Agentic Systems
+### AI Specialist • Data Engineer • Founder of phiUture
 
-AI/ML Engineer with 2+ years of experience building production-grade Generative AI, LLM, and agentic systems. I work across the full AI lifecycle — multi-agent orchestration, computer vision, backend/API development, and cloud-native data engineering on **AWS** and **Azure**.
+*Building beautiful AI products, intelligent automation systems, and scalable software that shape tomorrow.*
 
-📍 Bengaluru, India  
-📄 [**View Resume (PDF)**](https://github.com/user-attachments/files/28474617/Resume_BitanPaul.pdf)  ·  💼 [LinkedIn](https://linkedin.com/in/thebitanpaul)  ·  ✉️ [thebitanpaul@gmail.com](mailto:thebitanpaul@gmail.com)
+<br/>
+
+<a href="https://phiuture.com">
+<img src="https://img.shields.io/badge/Visit_phiUture-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@phiuture">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/user-attachments/files/28474617/Resume_BitanPaul.pdf">
+<img src="https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/thebitanpaul">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Building Intelligent Systems That Scale
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I'm **Bitan Paul**, an **AI Specialist**, **Data Engineer**, and the **Founder of phiUture**—an AI-first software company focused on building intelligent products, automation platforms, and modern digital experiences.
 
-**GenAI & ML**  
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+My work spans the complete software lifecycle, from research and experimentation to production deployment. I specialize in **Generative AI**, **Agentic AI**, **Machine Learning**, **Computer Vision**, **Cloud Data Engineering**, and **Full-Stack Development**, building systems that are practical, scalable, and designed for real-world use.
+
+I believe software should solve meaningful problems while remaining elegant, maintainable, and centered around the people who use it.
+
+---
+
+## The Philosophy Behind phiUture
+
+<div align="center">
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784753097/lgvkw3dn9w5veqhbej2b.png" width="520" alt="phiUture Wordmark"/>
+
+</div>
+
+The name **phiUture** represents the philosophy that guides every product I build.
+
+**φ (Phi)** represents the Golden Ratio—a timeless symbol of harmony, precision, and intelligent design found throughout nature.
+
+**U** represents **You**, placing users at the center of every experience.
+
+**Future** represents continuous innovation and building technologies that shape tomorrow.
+
+Together, they define the vision behind phiUture.
+
+> **Beautiful Technology. Centered Around You. Shaping Tomorrow.**
+
+---
+
+## Areas of Focus
+
+- Artificial Intelligence
+- Agentic Systems
+- Enterprise Automation
+- Data Engineering
+- Cloud Platforms
+- Modern Web Applications
+- Mobile Applications
+- Computer Vision
+- Developer Tools
+
+---
+
+## Current Focus
+
+- Building the phiUture ecosystem
+- Developing VERA, an AI-powered assistant platform
+- Designing production-ready AI agents
+- Creating intelligent automation workflows
+- Building scalable AI products for real-world use
+
+---
+
+## Professional Experience
+
+### Data Engineering & AI Specialist  
+**Navikenz** • *January 2024 – Present*
+
+Working on enterprise-scale AI and data platforms for global clients, with responsibilities spanning Generative AI, intelligent document processing, cloud-native data engineering, and business intelligence.
+
+**Key areas of work**
+
+- Production-grade Generative AI applications
+- Enterprise AI agent development
+- Azure OpenAI & Azure AI Foundry
+- Azure Databricks & PySpark
+- Data engineering pipelines and ETL workflows
+- Intelligent document processing
+- Retrieval-Augmented Generation (RAG)
+- REST APIs and backend development
+- Cloud architecture on Azure and AWS
+
+
+---
+
+## Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Artificial Intelligence
+
+- Generative AI
+- Large Language Models
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Automation
+- Computer Vision
+- Machine Learning
+
+</td>
+
+<td width="50%">
+
+### Data Engineering
+
+- Data Pipelines
+- ETL & ELT
+- Distributed Data Processing
+- Cloud Data Platforms
+- Data Warehousing
+- Analytics Engineering
+- Workflow Orchestration
+- Enterprise Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## Industries & Solution Domains
+
+Over the past few years, I have designed and contributed to software across multiple domains, including:
+
+- Enterprise Artificial Intelligence
+- Business Intelligence
+- Data Engineering
+- Automation Platforms
+- Document Intelligence
+- Healthcare AI
+- Education Technology
+- Mobile Applications
+- Developer Tools
+- Productivity Software
+
+---
+
+## Engineering Philosophy
+
+I enjoy building software that balances engineering quality with product thinking.
+
+Rather than creating isolated applications, I focus on designing scalable platforms that can evolve into complete ecosystems. Every project is approached with long-term maintainability, clean architecture, thoughtful user experience, and practical business value in mind.
+
+This philosophy is reflected in every product developed under **phiUture**.
+
+---
+
+## Technology Ecosystem
+
+<table>
+
+<tr>
+<td width="33%" valign="top">
+
+### Artificial Intelligence
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-1F4E79?style=flat)
+![RAG](https://img.shields.io/badge/RAG-444444?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Cloud & Data Engineering**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+</td>
 
-**Backend & Frontend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<td width="33%" valign="top">
+
+### Data Engineering
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
+![Azure AI Foundry](https://img.shields.io/badge/AI_Foundry-0078D4?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tools**  
+</td>
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 💼 Experience
+## What You'll Find Here
 
-**Navikenz** — *Data Engineering & AI Specialist* · Jan 2024 – Present  
-Building AI contract-intelligence platforms, GenAI business-intelligence tooling, and Azure/Databricks data pipelines for enterprise clients.
+This GitHub profile showcases the technologies, products, and engineering work that power **phiUture**.
 
-**Outlier AI** — *AI Trainer (Freelance)* · Sep 2024 – Present  
-Training and refining LLMs on reasoning, coding, and NLP tasks; prompt engineering and model-behavior optimization.
+Repositories span multiple domains, including:
 
----
+- Artificial Intelligence
+- Agentic Systems
+- Enterprise Automation
+- Data Engineering
+- Cloud Infrastructure
+- Machine Learning
+- Computer Vision
+- Mobile Applications
+- Modern Web Applications
+- Open Source Tools
 
-## 🚀 Featured Projects
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| **ArchAItect** | Agentic AI assistant that designs, evaluates & iterates software architectures using autonomous agents. | [Live Demo](https://archaitect-ten.vercel.app/) |
-| **Campus Buddy** | Android app solving real campus problems — 1,000+ downloads, 4.8★. | [Play Store](https://play.google.com/store/apps/details?id=com.thebitanpaul.cubuddy) |
-| **Ball Sort Puzzle** | Mobile puzzle game published on Google Play Store. | [Play Store](https://play.google.com/store/apps/details?id=com.thebitanpaul.ballsortpuzzle) |
-| **Face Says BMI** | CNN that predicts BMI, age & gender from a single facial image. | [GitHub](https://github.com/thebitanpaul/Face-Says-Bmi) |
-
-📂 Explore all my work at [github.com/thebitanpaul](https://phiuture.com)
+Every repository represents a step toward building a cohesive ecosystem of intelligent software rather than isolated projects.
 
 ---
 
-## About phiUture
+## Featured Products
 
+The following products represent some of the flagship initiatives currently being developed under **phiUture**. Each is designed to solve real-world problems through artificial intelligence, automation, and modern software engineering.
 
-Welcome to phiUture — Beautiful Technology. Centered Around You. Shaping Tomorrow.
+<table>
+<tr>
 
-Inspired by the Golden Ratio (φ), our name represents beautiful, intelligent engineering, while the "U" stands for You—placing people at the center of every solution we build.
+<td align="center" width="33%">
 
-phiUture is an AI-first software company creating intelligent products, automation systems, and modern digital experiences. This channel documents the journey of building practical AI solutions, from concept to deployment.
+<a href="https://phiuture.com/products/VERA">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784995316/whxgcxymdcngjjk4x6ir.webp" width="90" alt="VERA"/>
+</a>
 
-```text
-Here you'll find:
-• AI applications and product demos
-• AI agents and automation workflows
-• Web and mobile app showcases
-• Machine Learning and Data Engineering projects
-• Product launches and development insights
-• UI/UX and software engineering content
-• Tutorials, experiments, and future innovations
-```
+### VERA
+
+AI-powered assistant platform designed to bring intelligent workflows, contextual reasoning, and personalized experiences into a unified ecosystem.
+
+<a href="https://phiuture.com/products/VERA"><strong>View Product →</strong></a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://phiuture.com/products/ArchAItect">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784579210/mvc0kqxxwrtax3d5wh1n.webp" width="90" alt="ArchAItect"/>
+</a>
+
+### ArchAItect
+
+An AI-driven software architecture platform that transforms requirements into scalable, production-ready system designs.
+
+<a href="https://phiuture.com/products/ArchAItect"><strong>View Product →</strong></a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://phiuture.com/products/theacepirant">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784621133/cp95wwkegrj6lii3laty.webp" width="90" alt="theacepirant"/>
+</a>
+
+### theacepirant
+
+A modern education platform focused on helping learners prepare, grow, and build successful careers.
+
+<a href="https://phiuture.com/products/theacepirant"><strong>View Product →</strong></a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://phiuture.com/products/FaceSaysBMI">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784647264/arvnvpgkfaopsllcjpgc.webp" width="90" alt="FaceSaysBMI"/>
+</a>
+
+### FaceSaysBMI
+
+Computer vision research that estimates health-related metrics directly from facial imagery using deep learning.
+
+<a href="https://phiuture.com/products/FaceSaysBMI"><strong>View Product →</strong></a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://phiuture.com/products/datanexus">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784639532/q63wig5yf5fcpblwcjxx.webp" width="90" alt="DataNexus"/>
+</a>
+
+### DataNexus
+
+A unified data platform for engineering, analytics, automation, and AI-driven business intelligence.
+
+<a href="https://phiuture.com/products/datanexus"><strong>View Product →</strong></a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://phiuture.com/products/Ballsortpuzzle">
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784581906/nmkrwo36f1ikjmjj4d7j.webp" width="90" alt="Ball Sort Puzzle"/>
+</a>
+
+### Ball Sort Puzzle
+
+A published mobile puzzle game demonstrating clean gameplay mechanics and polished user experience.
+
+<a href="https://phiuture.com/products/Ballsortpuzzle"><strong>View Product →</strong></a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Beyond Code
+
+My work extends beyond writing software. I'm building an ecosystem where artificial intelligence, automation, engineering, design, and creativity converge under a single vision.
+
+That vision is **phiUture**—a growing platform encompassing AI products, developer tools, web applications, mobile experiences, automation workflows, educational initiatives, and creative technologies.
+
+Every repository, experiment, and product contributes to that long-term mission.
+
+---
+
+## Open to Collaborate
+
+I'm always interested in collaborating on meaningful projects involving:
+
+- Artificial Intelligence
+- Enterprise Software
+- Agentic Systems
+- Data Engineering
+- Developer Platforms
+- Automation Solutions
+- Research & Innovation
+
+If you're building something ambitious or exploring new ideas, I'd be happy to connect.
+
+---
+
+## Connect
+
+<div align="center">
 
 | Personal | Business | Artist |
 |----------|----------|--------|
@@ -96,4 +434,28 @@ Here you'll find:
 | [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://snapchat.com/t/UgO0Iywr) |  | [![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=for-the-badge&logo=jiosaavn&logoColor=white)](https://www.jiosaavn.com/artist/thebitanpaul-songs/zuo0NgC65gQ_) |
 | [![Email](https://img.shields.io/badge/Personal_Email-thebitanpaul%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebitanpaul@gmail.com) |  |  |
 
+</div>
 
+---
+
+<div align="center">
+
+### Beautifully engineered technology, crafted for you, shaping the future.
+
+<p>
+
+From enterprise AI systems and intelligent automation to cloud-native data platforms and modern software products, every repository reflects a long-term vision of building technology that is practical, elegant, and designed to create lasting impact.
+
+</p>
+
+<br/>
+
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784753097/aj9rycbehzhpwepoc3g0.png" width="70" alt="phiUture Logo"/>
+
+<br/><br/>
+
+**2026 · © phiUture · All Rights Reserved**
+
+</div>
+
+---
