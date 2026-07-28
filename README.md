@@ -42,7 +42,7 @@ I believe software should solve meaningful problems while remaining elegant, mai
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1784753097/lgvkw3dn9w5veqhbej2b.png" width="520" alt="phiUture Wordmark"/>
+<img src="https://res.cloudinary.com/b0tb1mho/image/upload/v1785254016/phiUture/BrandAssets/phiUture_YouTube_Banner.png" width="520" alt="phiUture Wordmark"/>
 
 </div>
 
