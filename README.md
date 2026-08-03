@@ -2,9 +2,9 @@
   
 # Bitan Paul
 
-### AI Specialist • Data Engineer • Founder of phiUture
+### AI / ML Engineer • Data Engineer • Creator of phiUture
 
-*Building beautiful AI products, intelligent automation systems, and scalable software that shape tomorrow.*
+*Building production-grade AI systems, intelligent automation, and scalable software — under my personal brand, phiUture.*
 
 <br/>
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://github.com/user-attachments/files/28474617/Resume_BitanPaul.pdf">
+<a href="https://github.com/thebitanpaul/thebitanpaul/blob/main/Bitan_Paul_Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge"/>
 </a>
 
@@ -30,9 +30,9 @@
 
 ## Building Intelligent Systems That Scale
 
-I'm **Bitan Paul**, an **AI Specialist**, **Data Engineer**, and the **Founder of phiUture**—an AI-first software company focused on building intelligent products, automation platforms, and modern digital experiences.
+I'm **Bitan Paul**, an **AI/ML Engineer** and **Data Engineer** with 2+ years of experience building production-grade AI systems. **phiUture** is my personal brand — the umbrella under which I design, build, and share my engineering work.
 
-My work spans the complete software lifecycle, from research and experimentation to production deployment. I specialize in **Generative AI**, **Agentic AI**, **Machine Learning**, **Computer Vision**, **Cloud Data Engineering**, and **Full-Stack Development**, building systems that are practical, scalable, and designed for real-world use.
+My work spans the complete software lifecycle, from research and experimentation to production deployment. I specialize in **Generative AI**, **RAG**, **Agentic AI**, **Machine Learning**, **Computer Vision**, **Cloud Data Engineering**, and **Full-Stack Development**, building systems that are practical, scalable, and designed for real-world use.
 
 I believe software should solve meaningful problems while remaining elegant, maintainable, and centered around the people who use it.
 
@@ -46,7 +46,7 @@ I believe software should solve meaningful problems while remaining elegant, mai
 
 </div>
 
-The name **phiUture** represents the philosophy that guides every product I build.
+The name **phiUture** represents the philosophy that guides how I build.
 
 **φ (Phi)** represents the Golden Ratio—a timeless symbol of harmony, precision, and intelligent design found throughout nature.
 
@@ -76,10 +76,11 @@ Together, they define the vision behind phiUture.
 
 ## Current Focus
 
-- Building the phiUture ecosystem
-- Designing production-ready AI agents
-- Creating intelligent automation workflows
-- Building scalable AI products for real-world use
+- Designing production-ready RAG and AI agent systems
+- Cloud data engineering on Snowflake, Databricks, Airflow & Kafka
+- Building and validating scalable, well-tested AI systems
+- Rapid AI-assisted development (Claude Code CLI) with rigorous pre-ship validation
+- Sharing self-driven projects under the phiUture brand
 
 ---
 
@@ -92,14 +93,15 @@ Working on enterprise-scale AI and data platforms for global clients, with respo
 
 **Key areas of work**
 
-- Production-grade Generative AI applications
-- Enterprise AI agent development
+- Production-grade Generative AI & multi-agent applications
+- Enterprise LLM deployment on Amazon Bedrock (with FAISS retrieval)
+- Conversational BI on Snowflake (Cortex Analyst, governed text-to-SQL)
 - Azure OpenAI & Azure AI Foundry
-- Azure Databricks & PySpark
+- Azure Databricks, PySpark & Unity Catalog
 - Data engineering pipelines and ETL workflows
-- Intelligent document processing
+- Intelligent document processing & translation
 - Retrieval-Augmented Generation (RAG)
-- REST APIs and backend development
+- REST APIs and backend development (FastAPI)
 - Cloud architecture on Azure and AWS
 
 
@@ -181,9 +183,10 @@ This philosophy is reflected in every product developed under **phiUture**.
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-1F4E79?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-444444?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -209,6 +212,7 @@ This philosophy is reflected in every product developed under **phiUture**.
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat)
 ![Azure AI Foundry](https://img.shields.io/badge/AI_Foundry-0078D4?style=flat)
@@ -256,7 +260,9 @@ This philosophy is reflected in every product developed under **phiUture**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat)
+![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-D97757?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -291,7 +297,7 @@ Every repository represents a step toward building a cohesive ecosystem of intel
 
 ## Featured Products
 
-The following products represent some of the flagship initiatives currently being developed under **phiUture**. Each is designed to solve real-world problems through artificial intelligence, automation, and modern software engineering.
+A selection of projects I've designed and built under the **phiUture** brand — each tackling a real-world problem through AI, automation, and modern software engineering. Find the live demos here.
 
 <table>
 <tr>
@@ -304,7 +310,7 @@ The following products represent some of the flagship initiatives currently bein
 
 ### VERA
 
-AI-powered assistant platform designed to bring intelligent workflows, contextual reasoning, and personalized experiences into a unified ecosystem.
+A production-grade RAG system for regulated clinical workflows — hybrid retrieval (BM25 + embeddings), deterministic version resolution, and an agentic verifier that cites sources and safe-abstains. 135 pytest tests.
 
 <a href="https://phiuture.com/products/VERA"><strong>View Product →</strong></a>
 
@@ -318,7 +324,7 @@ AI-powered assistant platform designed to bring intelligent workflows, contextua
 
 ### ArchAItect
 
-An AI-driven software architecture platform that transforms requirements into scalable, production-ready system designs.
+A multi-agent app (FastAPI + React) that turns a requirements document into a full microservice architecture — service map, resilience simulation, metrics, and risk audit — with a token-efficient "logic-over-LLM" design across 10 providers.
 
 <a href="https://phiuture.com/products/ArchAItect"><strong>View Product →</strong></a>
 
@@ -368,7 +374,7 @@ Computer vision research that estimates health-related metrics directly from fac
 
 ### DataNexus
 
-A unified data platform for engineering, analytics, automation, and AI-driven business intelligence.
+A production-style medallion lakehouse (Bronze→Silver→Gold) on Databricks/PySpark, orchestrated by Airflow behind a Great Expectations data-quality gate with quarantine, plus a Kafka streaming path and DAG-integrity tests.
 
 <a href="https://phiuture.com/products/datanexus"><strong>View Product →</strong></a>
 
@@ -532,9 +538,9 @@ Original Bengali single
 
 ---
 
-## Open to Collaborate
+## Open to Opportunities & Collaboration
 
-I'm always interested in collaborating on meaningful projects involving:
+I'm **open to AI/ML and Data Engineering roles**, and always interested in collaborating on meaningful work involving:
 
 - Artificial Intelligence
 - Enterprise Software
